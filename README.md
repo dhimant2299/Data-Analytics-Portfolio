@@ -1,7 +1,6 @@
 # 🚢 Titanic Data Analytics Project
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Author: [Dhimant Adhikari](https://www.linkedin.com/in/dhimant-adhikari-b1068b25b/)
 
